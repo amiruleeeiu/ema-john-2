@@ -1,0 +1,8 @@
+.review-button{
+    background-color: goldenrod;
+    border: 2px solid gold;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
